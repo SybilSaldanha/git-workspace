@@ -1,3 +1,4 @@
 Hello World
 I'm testing out git from my local
 Lets try a conflict now
+adding some more lines

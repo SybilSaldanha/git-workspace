@@ -1,2 +1,3 @@
 Hello World
 I'm testing out git from my local
+Now working on this file from another branch
